@@ -10,3 +10,8 @@
 3. Teamweek (https://teamweek.com).
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+
+Пример диаграммы ганта, созданной с помощью Realtimeboard:
+```![GitHub Logo](/images/logo.png)```
+
+![Фрагмент примера диаграммы Ганта](https://i.pinimg.com/originals/29/ed/ec/29edec2a49e094f453fee964f8837810.jpg)
